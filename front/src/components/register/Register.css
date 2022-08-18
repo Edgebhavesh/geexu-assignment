@@ -1,0 +1,13 @@
+.container{
+    padding: 20px;
+    width: 20%;
+    margin-left: 40%;
+    box-shadow: 0 2px 4px rgb(0 0 0/10%), 0 8px 16px rgb(0 0 0/10%);
+     background-color:lightgray;
+     border-radius: 8px;
+     outline: 1px;
+}
+
+body{
+    background-color: lightblue;
+}
